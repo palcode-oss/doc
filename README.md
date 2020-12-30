@@ -39,3 +39,6 @@ If, on the other hand, your vulnerability is rejected, we'll provide you with as
 Don't attempt to carry out exploits on PalCode's cloud infrastructure — you must always act in accordance with relevant legislation, and we will report suspected attacks to authorities.
 
 Unfortunately, PalCode is currently too small to offer a bug bounty program.
+
+## License
+The MIT license applies to _all_ of PalCode's source code. Please see [LICENSE.md](https://github.com/palcode-oss/doc/blob/main/LICENSE.md).
